@@ -13,6 +13,7 @@
 
 ### Round 1  - Coding
 - For all registered candidates.
+
 |Total Questions|Easy|Medium|Hard|
 |:-:|:-:|:-:|:-:|
 |5|2|2|1|
@@ -21,6 +22,7 @@
 
 ### Round 2 - Coding
 - Only for the students shorlisted from Round 1
+  
 |Total Questions|Easy|Medium|Hard|
 |:-:|:-:|:-:|:-:|
 |5|1|2|2|
@@ -45,6 +47,7 @@
 
 ### Round 1  - Coding
 - For all registered candidates.
+  
 |Total Questions|Easy|Medium|
 |:-:|:-:|:-:|
 |4|2|2|
@@ -53,6 +56,7 @@
 
 ### Round 2 - Coding
 - Only for the students shorlisted from Round 1
+  
 |Total Questions|Easy|Medium|Hard|
 |:-:|:-:|:-:|:-:|
 |4|1|2|1|
@@ -76,6 +80,7 @@
 
 ### Round 1  - Coding
 - For all registered candidates.
+  
 |Total Questions|Easy|Medium|
 |:-:|:-:|:-:|
 |5|4|1|
@@ -84,6 +89,7 @@
 
 ### Round 2 - Coding
 - Only for the students shorlisted from Round 1
+  
 |Total Questions|Easy|Medium|
 |:-:|:-:|:-:|
 |5|2|3|
@@ -101,6 +107,7 @@
 
 # Judging System
 - Points Table
+  
   |Question|Max Score|
   |:-:|:-:|
   |Easy|20 Pts.|
@@ -111,6 +118,7 @@
 
 **Example**
   - If there are 5 questions in a **02:00 (120 minutes) hour** contest. And you made your submissions as follows.
+
   |Question|Minute of Submission|
   |:-:|:-:|
   |Q1|7|
@@ -123,98 +131,3 @@
   1. Problems solved
   2. Points gained
   3. Penalty (The lesser the penalty, the higher the rank in the Leaderboard)
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
